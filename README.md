@@ -1,6 +1,9 @@
 # Sistema de Gestão para sua empresa
 
-Sistema desenvolvido em Laravel e Vue.js para gerenciamento de notas/despesas, clientes/fornecedores, produtos e pagamentos.
+Sistema desenvolvido em PHP com o framework Laravel e Vue.js para gerenciamento de notas/despesas, clientes/fornecedores, produtos e pagamentos.
+
+
+![imagelogin](https://github.com/user-attachments/assets/25315e7f-33c4-42ba-ad2d-7ceb5db2f68a)
 
 ![image](https://github.com/user-attachments/assets/390fdc03-c5ae-4de5-8778-8d80b4d7c788)
 
@@ -21,10 +24,12 @@ Sistema desenvolvido em Laravel e Vue.js para gerenciamento de notas/despesas, c
 
 ## Tecnologias Utilizadas
 
+- MySQL
+- PHP 8.1
 - Laravel 8.x
 - Vue.js 3
 - MySQL
-- Laravel Mix
+- Laravel Sanctum
 
 ## Recursos do Sistema
 
