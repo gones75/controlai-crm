@@ -24,7 +24,6 @@ Sistema desenvolvido em PHP com o framework Laravel e Vue.js para gerenciamento 
 
 ## Tecnologias Utilizadas
 
-- MySQL
 - PHP 8.1
 - Laravel 8.x
 - Vue.js 3
